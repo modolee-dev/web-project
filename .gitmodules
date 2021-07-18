@@ -1,0 +1,8 @@
+[submodule "submodule/backend"]
+	path = submodule/backend
+	url = git@github.com:modolee-dev/web-project-be.git
+	branch = main
+[submodule "submodule/frontend"]
+	path = submodule/frontend
+	url = git@github.com:modolee-dev/web-project-fe.git
+	branch = main
